@@ -19,7 +19,7 @@
   3. ->> Renderizar os items na flatlist
     - props: KeyExtractor, data, rederItem
 
-  # ATUALIZANDO PACKEGES
+  # ATUALIZANDO PACKGES
    - *npm i -g expo-cli*
     - para rodar: npx expo start
   - ou usar o *npm run start*
