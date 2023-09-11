@@ -37,4 +37,5 @@ Upgrade all dependencies to match SDK 49:
     - npm audit fix --force
     - npx expo install --fix
 
+*Utilizando porps type: *
 -npm i deprecated-react-native-prop-types@2.2.0
